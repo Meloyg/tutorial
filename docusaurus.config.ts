@@ -6,7 +6,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
   title: "Melo Coding Class",
-  tagline: "Dinosaurs are cool",
+  tagline: "Coding is cool",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
